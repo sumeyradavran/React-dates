@@ -1,0 +1,25 @@
+{
+  "name": "react-dates",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "i18next": "19.6.3",
+    "i18next-browser-languagedetector": "6.0.0",
+    "i18next-http-backend": "1.0.18",
+    "react": "16.13.1",
+    "react-dates": "21.8.0",
+    "react-dom": "16.13.1",
+    "react-i18next": "11.7.0",
+    "react-scripts": "3.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
